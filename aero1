@@ -1,0 +1,2588 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.672161,
+          41.238577,
+          0
+        ]
+      },
+      "properties": {
+        "marker-size": "",
+        "marker-symbol": "",
+        "name": "Porto",
+        "description": "",
+        "marker-color": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.968864,
+          37.018179,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Faro",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.777754,
+          32.693963,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Madeira",
+        "marker-color": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.346605,
+          33.071423,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Porto Santo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.697279,
+          37.742825,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ponta Delgada",
+        "marker-size": "",
+        "marker-color": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.167618,
+          36.973964,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Santa Maria",
+        "marker-color": "",
+        "marker-size": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -27.092028,
+          38.764792,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lages"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -28.174181,
+          38.665474,
+          0
+        ]
+      },
+      "properties": {
+        "name": "São Jorge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -28.441973,
+          38.552663,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -28.716545,
+          38.520907,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Faial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -28.028355,
+          39.0916,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Graciosa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.130834,
+          39.458247,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Santa Cruz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.113195,
+          39.670728,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Corvo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.083626,
+          41.297413,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Barcelona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.569771,
+          49.002069,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Paris - CDG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.174751,
+          51.156524,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Londres - Gatwick"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.249847,
+          53.428356,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Dublin (EIDW)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.490715,
+          51.84299,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cork"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.877514,
+          54.618406,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Belfast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.941328,
+          64.131918,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Reykjavik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.299728,
+          62.068202,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ilhas Faroe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.487228,
+          50.901734,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bruxelas (EBBR)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.771843,
+          52.313516,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Amesterdão (EHAM)",
+        "description": "Arrivals regulated due to weather (LVP).<br>Moderate delays."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.212425,
+          49.626391,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Luxemburgo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.288307,
+          52.55856,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Berlim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.65213,
+          55.617528,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Copenhaga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.091042,
+          60.195985,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.927628,
+          59.651265,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Estocolmo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.934158,
+          60.324568,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Helsínquia (EFHK)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.823952,
+          59.414693,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Talin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.976974,
+          56.922683,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Riga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.288467,
+          54.64285,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Vilnius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.538261,
+          53.869028,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Minsk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.903433,
+          55.41289,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Moscovo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.497139,
+          46.91322,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Berna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.257851,
+          50.103625,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Praga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.971398,
+          52.172089,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Varsóvia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.213001,
+          48.167116,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bratislava"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.557255,
+          48.120955,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Viena (LOWW)",
+        "description": "Arrivals regulated due to weather (LVP).<br>Moderate delays."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.264862,
+          41.80331,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Roma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.102999,
+          38.181057,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.473028,
+          35.855979,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Malta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.455605,
+          46.226522,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Liubliana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.060467,
+          45.73662,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Zagreb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.327084,
+          43.824744,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Saraievo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.24839,
+          42.362349,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Podgorica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.295353,
+          44.820629,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Belgrado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.24736,
+          47.441557,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Budapeste (LHBP)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.091499,
+          44.500913,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bucareste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.404312,
+          42.693287,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sofia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.891924,
+          50.342941,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kiev"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.927603,
+          46.930982,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Moldávia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.654396,
+          42.00007,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Skopie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.717884,
+          41.419753,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tirana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.940926,
+          37.930117,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Atenas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.266047,
+          59.802275,
+          0
+        ]
+      },
+      "properties": {
+        "name": "São Petersburgo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.055256,
+          40.475811,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Baku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.79641,
+          41.715724,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tibilissi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.47197,
+          40.126653,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Arménia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.275356,
+          35.155705,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nicósia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.385494,
+          27.935271,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Gran Canaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.561375,
+          28.047591,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tenerife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.37681,
+          38.875265,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ibiza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.741432,
+          39.553692,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Palma de Maiorca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.219265,
+          39.867785,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Menorca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.294249,
+          40.639358,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sardanha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.801422,
+          41.923866,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Corsega"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.361816,
+          55.954198,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Edinburgo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.054665,
+          16.835104,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mindelo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.888641,
+          16.137023,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Boa Vista"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.950096,
+          16.732222,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ilha do Sal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.484221,
+          14.944785,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Santiago"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.209648,
+          15.162938,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Maio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.479942,
+          14.88905,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ilha do Fogo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.717093,
+          14.855619,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Brava"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.23329,
+          -8.852846,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Luanda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.755862,
+          34.046792,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Rabat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.34399,
+          36.15146,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Gibraltar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.059086,
+          39.255386,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cagliari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.064487,
+          37.46934,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Catania"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.21187,
+          36.697122,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.283844,
+          32.898615,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tripoli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.467964,
+          26.995208,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Seba (HLLS)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4929317,
+          36.6757826,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Málaga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8925074,
+          37.4181993,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sevilha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0599014,
+          36.7467081,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Jerez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4815716,
+          39.4820029,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Valência"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6295742,
+          42.2253227,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Vigo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9322377,
+          38.0809588,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Beja"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.11399,
+          49.4538173,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Paris - BVA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2370747,
+          51.8866957,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Londres - Stansted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3692442,
+          51.8746506,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Londres - Luton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.26823,
+          32.096245,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bengazi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.145874,
+          25.134096,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ghat (HLGT)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8801661,
+          45.6376443,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Chambery (LFLB)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0418381,
+          43.3531343,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Almaty (UAAA)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8827013,
+          46.5327433,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Suiça - Samedan (LSZS)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3490654,
+          45.5030525,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Itália - Veneza (LIPZ)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.56575,
+          40.476203,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Madrid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9107843,
+          43.3012325,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bilbau (LEBB)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2772928,
+          45.4446127,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Milão (LIML)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1367996,
+          38.772766,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lisboa (LPPT)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.562126,
+          50.034871,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Frankfurt (EDDF)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.811817,
+          40.983397,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Istambul (LTFM)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.999496,
+          40.11694,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ankara (LTAC)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.525429,
+          47.6001499,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Basileia (LFSB)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6300438,
+          48.5396562,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Estrasburgo (LFST)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.479965,
+          51.471547,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Londres - Heathrow (EGLL)",
+        "description": "Arrivals regulated due to weather (LVP).<br>Low to moderate delays."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.71085,
+          44.831526,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bordéus (LFBD)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3701005,
+          43.6318487,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Toulouse (LFBO)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4186645,
+          43.3801463,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pau (LFBP)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1649409,
+          45.7864678,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Clermont-Ferrand (LFLC)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.555361,
+          47.4562783,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Zurique (LSZH)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0527881,
+          51.5052981,
+          0
+        ]
+      },
+      "properties": {
+        "name": "London City (EGLC)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5603826,
+          38.2843147,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alicante (LEAL)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.373734,
+          48.724718,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Paris - Orly (LFPO)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3940961,
+          43.6833412,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pisa (LIRP)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.878962,
+          32.0079623,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Telavive - Ben Gurion (LLBG)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7692116,
+          51.2841967,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Dusseldorf (EDDL)",
+        "description": "Arrivals regulated with reduced rate due to low visibility.<br>Moderate to high delays."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1347858,
+          38.7220618,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LPPC (Lisboa) airspace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9698971,
+          37.3868593,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LECS (Sevilha) airspace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7894492,
+          40.4355806,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LECM (Madrid) airspace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.321396,
+          50.8579078,
+          0
+        ]
+      },
+      "properties": {
+        "name": "EBBU (Bruxelas) airspace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4049013,
+          49.0020711,
+          0
+        ]
+      },
+      "properties": {
+        "name": "EDUU (Karlsruhe) airspace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.3830804,
+          35.1797259,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LCCC (Nicósia) airspace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.71085,
+          44.831526,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
+        "name": "LFBB (Bordéus) airspace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4958738,
+          48.3855132,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LFRR (Brest) airspace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0365545,
+          49.2702104,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LFEE (Reims) airspace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5427645,
+          47.3736492,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LSAZ (Zurique) airspace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3215949,
+          48.8635207,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LFFF (Paris) airspace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3721046,
+          43.2931083,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LFMM (Marselha) airspace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3078101,
+          47.451877,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Seattle (KSEA) (SEA)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5991261,
+          45.5910759,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Portland (KPDX) (PDX)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.374427,
+          37.6199017,
+          0
+        ]
+      },
+      "properties": {
+        "name": "São Francisco (KSFO)  (SFO)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9338318,
+          37.3669207,
+          0
+        ]
+      },
+      "properties": {
+        "name": "San José (KSJC)  (SJC)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4112548,
+          33.9428718,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Los Angeles (KLAX)  (LAX)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1947363,
+          32.7331715,
+          0
+        ]
+      },
+      "properties": {
+        "name": "San Diego (KSAN)  (SAN)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.152819,
+          36.0817183,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Las Vegas (KLAS)  (LAS)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9867915,
+          40.7874549,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Salt Lake City (KSLC)  (SLC)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6737495,
+          39.8604628,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Denver (KDEN)  (DEN)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0436233,
+          32.901327,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Dallas (KDFW)  (DFW)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3406439,
+          29.9898742,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Houston (KIAH)  (IAH)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7245814,
+          39.2939803,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kansas (KMCI)  (MCI)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2217328,
+          44.8822541,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Minneapolis (KMSP) (MSP)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9056724,
+          41.9758318,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Chicago OHare (KORD)  (ORD)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3717642,
+          38.7503528,
+          0
+        ]
+      },
+      "properties": {
+        "name": "St. Louis (KSTL)  (STL)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9813268,
+          35.041357,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Memphis (KMEM)  (MEM)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.752784,
+          41.7862064,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Chicago Midway (KMDW)  (MDW)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2969457,
+          39.7184849,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Indianapolis (KIND)  (IND)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6747018,
+          36.1243022,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nashville (KBNA)  (BNA)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6665876,
+          39.048596,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cincinnati (KCVG)  (CVG)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3577566,
+          42.2121762,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Detroit (KDTW)  (DTW)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8497929,
+          41.411334,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cleveland (KCLE)  (CLE)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4341848,
+          33.6406248,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Atlanta (KATL)  (ATL)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9460897,
+          35.2188031,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Charlotte (KCLT)  (CLT)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2480571,
+          40.4970061,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pittsburgh (KPIT)  (PIT)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0156568,
+          42.3656155,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Boston (KBOS)  (BOS)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8744274,
+          40.7783446,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nova Iorque La Guardia (KLGA)  (LGA)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7770144,
+          40.6431046,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nova Iorque JFK (KJFK)  (JFK)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0593048,
+          40.8587992,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nova Iorque Teterboro (KTEB)  (TEB)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1760402,
+          40.687723,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nova Iorque Newark (KEWR)  (EWR)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6682749,
+          39.1746714,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Baltimore (KBWI)  (BWI)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.040724,
+          38.8537231,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Washington Reagan (KDCA)  (DCA)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4512778,
+          38.9489598,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Washington Dulles (KIAD)  (IAD)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.785081,
+          35.8774687,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Raleigh (KRDU)  (RDU)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5348352,
+          27.9800095,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tampa (KTPA)  (TPA)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3084091,
+          28.4336557,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Orlando (KMCO) (MCO)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1502857,
+          26.0722439,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fort Lauderdale (KFLL)  (FLL)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2892452,
+          25.796844,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Miami (KMIA)  (MIA)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.8682891,
+          64.8149541,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fairbanks (PAFA)  (FAI)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -161.8408311,
+          60.7799847,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bethel (PABE)  (BET)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.997292,
+          61.1733847,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Anchorage (PANC)  (ANC)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.4880729,
+          57.7506517,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kodiak (PADQ)  (ADQ)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.5731232,
+          58.3544742,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Juneau (PAJN)  (JNU)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9142851,
+          21.3251617,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Honolulu (PHNL)  (HNL)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.0970467,
+          21.1532793,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Molokai (PHMK)  (MKK)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.4336955,
+          20.8952257,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kahului (PHOG)  (OGG)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.0426979,
+          19.7318512,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kona (PHKO)  (KOA)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2489905,
+          39.8725193,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Filadélfia (KPHL)  (PHL)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1771599,
+          -33.9426889,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sydney (YSSY)",
+        "description": "Post rain low cloud and risk of mist from lifting fog for first few hours in the morning of the GDP. Otherwise rest of the day with light winds with SE change in the evening.<br>PRM available in the morning when required in the peak demand hours.<br>Early review to be initiated due to the amount of rain that has come through on Monday evening which could change conditions overnight."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8419376,
+          -37.6670012,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Melbourne (YMML)",
+        "description": "Low cloud lifting anticipating by late morning with SSW winds.<br>Early review to be initiated due to the amount of rain that has come through on Monday evening, which could change conditions overnight."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.125489,
+          -27.3899247,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Brisbane (YBBN)",
+        "description": "Post rain low cloud in the morning, then late afternoon and early evening thunderstorms.<br>Due to low cloud CROPS not likely.<br>Early review to be initiated due to the amount of rain that has come through on Monday evening which could change conditions overnight."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9636539,
+          -31.9444097,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Perth (YPPH)",
+        "description": "Light showers and cloud following a cold front."
+      }
+    }
+  ]
+}
